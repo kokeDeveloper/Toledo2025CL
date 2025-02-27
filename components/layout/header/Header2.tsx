@@ -19,22 +19,19 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 									<div className="collapse navbar-collapse" id="navbarSupportedContent">
 										<ul className="navbar-nav me-auto mb-2 mb-lg-0">
 											<li className="nav-item">
-												<Link className="nav-link active" href="#about">About me</Link>
+												<Link className="nav-link active" href="#skills">Stack</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#resume">Resume</Link>
+												<Link className="nav-link" href="#services">Servicios</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#services">Services</Link>
+												<Link className="nav-link" href="#resume">Experiencia</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#portfolio">Portfolio</Link>
+												<Link className="nav-link" href="#portfolio">Portafolio</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#blog">Blog</Link>
-											</li>
-											<li className="nav-item">
-												<Link className="nav-link" href="#contact">Contact</Link>
+												<Link className="nav-link" href="#contact">Contacto</Link>
 											</li>
 										</ul>
 									</div>

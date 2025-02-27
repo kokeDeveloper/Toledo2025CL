@@ -10,27 +10,12 @@ export default function Footer2() {
 								<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
 								<span className="fs-4 ms-2">jorgetoledo.cl</span>
 							</a>
-							<div className="d-flex justify-content-center gap-3">
-								<a href="http://facebook.com">
-									<i className="ri-facebook-circle-fill fs-18" />
-								</a>
-								<a href="http://twitter.com">
-									<i className="ri-twitter-x-fill fs-18" />
-								</a>
-								<a href="http://linkedin.com">
-									<i className="ri-linkedin-fill fs-18" />
-								</a>
-								<a href="http://github.com">
-									<i className="ri-github-fill fs-18" />
-								</a>
-							</div>
 							<div className="navigation d-flex align-items-center justify-content-center flex-wrap gap-4 my-4">
-								<a href="#about" className="fs-6"> About me </a>
-								<a href="#resume" className="fs-6"> Resume </a>
-								<a href="#services" className="fs-6"> Services </a>
+								<a href="#skills" className="fs-6"> Stack</a>
+								<a href="#services" className="fs-6"> Servicios </a>
+								<a href="#resume" className="fs-6"> Experiencia </a>
 								<a href="#portfolio" className="fs-6"> Portfolio </a>
-								<a href="#blog" className="fs-6"> Blog </a>
-								<a href="#contact" className="fs-6"> Contact </a>
+								<a href="#contact" className="fs-6"> Contacto </a>
 							</div>
 						</div>
 					</div>
